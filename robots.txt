@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ativerwo.github.io/sitemap
+Sitemap: https://ativerwo.github.io/app/sitemap
+Sitemap: https://ativerwo.github.io/assets/sitemap
+Sitemap: https://ativerwo.github.io/css/sitemap
+Sitemap: https://ativerwo.github.io/includes/sitemap
+Sitemap: https://ativerwo.github.io/item/sitemap
+Sitemap: https://ativerwo.github.io/src/sitemap
